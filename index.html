@@ -14,7 +14,7 @@
 
 <body>
     <header class="container">
-        <ul class="nav nav-pills" id="myTab" role="tablist">
+        <ul class="nav nav-tabs" id="tab-paises" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" id="local-tab" data-toggle="tab" href="#local" role="tab" aria-selected="true">Tracer local</a>
             </li>
@@ -40,33 +40,224 @@
     </header>
 
     <section class="container">
-        <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="local" role="tabpanel" >
+        <div class="tab-content" id="content-paises">
+            <div class="tab-pane fade show active" id="local" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-local" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-local" data-toggle="pill" href="#facebook-local" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-local" data-toggle="pill" href="#google-local" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-local" data-toggle="pill" href="#youtube-local" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentLocal">
+                    <div class="tab-pane fade show active" id="facebook-local" role="tabpanel" aria-labelledby="pills-home-tab">
 
+                    </div>
+                    <div class="tab-pane fade" id="google-local" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-local" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
             <div class="tab-pane fade" id="europa" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-europa" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-europa" data-toggle="pill" href="#facebook-europa" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-europa" data-toggle="pill" href="#google-europa" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-europa" data-toggle="pill" href="#youtube-europa" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentEuropa">
+                    <div class="tab-pane fade show active" id="facebook-europa" role="tabpanel" aria-labelledby="pills-home-tab">
 
+                    </div>
+                    <div class="tab-pane fade" id="google-europa" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-europa" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
             <div class="tab-pane fade" id="amNorte" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-amNorte" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-amNorte" data-toggle="pill" href="#facebook-amNorte" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-amNorte" data-toggle="pill" href="#google-amNorte" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-amNorte" data-toggle="pill" href="#youtube-amNorte" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentamNorte">
+                    <div class="tab-pane fade show active" id="facebook-amNorte" role="tabpanel" aria-labelledby="pills-home-tab">
 
+                    </div>
+                    <div class="tab-pane fade" id="google-amNorte" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-amNorte" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
-            <div class="tab-pane fade" id="oceania" role="tabpanel" >
+            <div class="tab-pane fade" id="oceania" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-oceania" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-oceania" data-toggle="pill" href="#facebook-oceania" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-oceania" data-toggle="pill" href="#google-oceania" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-oceania" data-toggle="pill" href="#youtube-oceania" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentoceania">
+                    <div class="tab-pane fade show active" id="facebook-oceania" role="tabpanel" aria-labelledby="pills-home-tab">
 
+                    </div>
+                    <div class="tab-pane fade" id="google-oceania" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-oceania" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
             <div class="tab-pane fade" id="suramerica" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-suramerica" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-suramerica" data-toggle="pill" href="#facebook-suramerica" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-suramerica" data-toggle="pill" href="#google-suramerica" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-suramerica" data-toggle="pill" href="#youtube-suramerica" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentsuramerica">
+                    <div class="tab-pane fade show active" id="facebook-suramerica" role="tabpanel" aria-labelledby="pills-home-tab">
 
+                    </div>
+                    <div class="tab-pane fade" id="google-suramerica" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-suramerica" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
             <div class="tab-pane fade" id="africa" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-africa" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-africa" data-toggle="pill" href="#facebook-africa" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-africa" data-toggle="pill" href="#google-africa" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-africa" data-toggle="pill" href="#youtube-africa" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentafrica">
+                    <div class="tab-pane fade show active" id="facebook-africa" role="tabpanel" aria-labelledby="pills-home-tab">
 
+                    </div>
+                    <div class="tab-pane fade" id="google-africa" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-africa" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
-            <div class="tab-pane fade" id="asia" role="tabpanel" >
-                
+            <div class="tab-pane fade" id="asia" role="tabpanel">
+                <ul class="nav nav-pills mb-3" id="servers-asia" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="pills-facebook-tab-asia" data-toggle="pill" href="#facebook-asia" role="tab" aria-controls="pills-home"
+                            aria-selected="true">
+                            <i class="fab fa-facebook-square"></i> Trace Facebook</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-google-tab-asia" data-toggle="pill" href="#google-asia" role="tab" aria-controls="pills-profile"
+                            aria-selected="false">
+                            <i class="fab fa-google"></i> Trace Google</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="pills-youtube-tab-asia" data-toggle="pill" href="#youtube-asia" role="tab" aria-controls="pills-contact"
+                            aria-selected="false">
+                            <i class="fab fa-youtube"></i> Trace Youtube</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContentasia">
+                    <div class="tab-pane fade show active" id="facebook-asia" role="tabpanel" aria-labelledby="pills-home-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="google-asia" role="tabpanel" aria-labelledby="pills-profile-tab">
+
+                    </div>
+                    <div class="tab-pane fade" id="youtube-asia" role="tabpanel" aria-labelledby="pills-contact-tab">
+
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
+        crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
