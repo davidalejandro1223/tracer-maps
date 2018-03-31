@@ -1,10 +1,10 @@
 var localJSON;
 var servidorAF;
 var servidorAS;
-var servidorUS;
+var servidorNA;
 var servidorEU;
 var servidoraOC;
-var servidorSurAm;
+var servidorSA;
 
 function loadJSON(callback, ruta) {
     var xobj = new XMLHttpRequest();
@@ -31,7 +31,7 @@ function cargarJSON() {
         servidorAS = JSON.parse(response);
     }, 'Servidores/asia.json');
     loadJSON(function (response) {
-        servidorUS = JSON.parse(response);
+        servidorNA = JSON.parse(response);
     }, 'Servidores/US.json');
     loadJSON(function (response) {
         servidoraOC = JSON.parse(response);
@@ -40,6 +40,6 @@ function cargarJSON() {
         servidorEU = JSON.parse(response);
     }, 'Servidores/europa.json');
     loadJSON(function (response) {
-        servidorSurAm = JSON.parse(response);
+        servidorSA = JSON.parse(response);
     }, 'Servidores/suramerica.json');
 }
