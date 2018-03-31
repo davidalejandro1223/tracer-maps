@@ -1,0 +1,35 @@
+{
+	"facebook":[
+		{"tm":1,"ip":"192.168.0.1","webname":"","latitud":4.644079,"longitud":-74.173167,"as":""},
+		{"tm":2,"ip":"192.168.1.1","webname":"","latitud":4.644079,"longitud":-74.173167,"as":""},
+		{"tm":5.6,"ip":"190.217.55.1","webname":"190-217-55-1.static.impsat.com.co","latitud":4.6357,"longitud":-74.0733,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":7.6,"ip":"190.216.152.157","webname":"","latitud":4.6357,"longitud":-74.0733,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":78.3,"ip":"67.17.94.249","webname":"","latitud":37.751,"longitud":-97.822,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":81.3,"ip":"4.15.156.14","webname":"","latitud":40.7449,"longitud":-73.9782,"as":"AS3356 Level 3 Parent, LLC"},
+		{"tm":73.3,"ip":"157.240.44.1","webname":"po107.psw02.mia3.tfbnw.net","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":71.6,"ip":"173.252.67.53","webname":"","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":74.6,"ip":"31.13.67.35","webname":"edge-star-mini-shv-01-mia3.facebook.com","latitud":53.3472,"longitud":-6.2439,"as":"AS32934 Facebook, Inc"}
+	],
+
+	"google":[
+		{"tm":1,"ip":"192.168.0.1","webname":"","latitud":4.644079,"longitud":-74.173167,"as":""},
+		{"tm":2,"ip":"192.168.1.1","webname":"","latitud":4.644079,"longitud":-74.173167,"as":""},
+		{"tm":5.6,"ip":"190.217.55.1","webname":"190-217-55-1.static.impsat.com.co","latitud":4.6357,"longitud":-74.0733,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":7.6,"ip":"190.216.152.157","webname":"","latitud":4.6357,"longitud":-74.0733,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":8,"ip":"64.212.107.150","webname":"google-1.ar2.BGO2.gblx.net","latitud":33.3233,"longitud":-111.8244,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":11.6,"ip":"108.170.253.209","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":7.6,"ip":"74.125.252.61","webname":"","latitud":37.7735,"longitud":-122.2788,"as":"AS15169 Google LLC"},
+		{"tm":6.6,"ip":"172.217.28.110","webname":"gru06s09-in-f110.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	],
+
+	"youtube":[	
+		{"tm":1,"ip":"192.168.0.1","webname":"","latitud":4.644079,"longitud":-74.173167,"as":""},
+		{"tm":2,"ip":"192.168.1.1","webname":"","latitud":4.644079,"longitud":-74.173167,"as":""},
+		{"tm":5.6,"ip":"190.217.55.1","webname":"190-217-55-1.static.impsat.com.co","latitud":4.6357,"longitud":-74.0733,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":7.6,"ip":"190.216.152.157","webname":"","latitud":4.6357,"longitud":-74.0733,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":7.6,"ip":"64.212.107.150","webname":"google-1.ar2.BGO2.gblx.net","latitud":33.3233,"longitud":-111.8244,"as":"AS3549 Level 3 Parent, LLC"},
+		{"tm":12.6,"ip":"108.170.253.209","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":25,"ip":"74.125.252.61","webname":"","latitud":37.7735,"longitud":-122.2788,"as":"AS15169 Google LLC"},
+		{"tm":11.3,"ip":"172.217.28.110","webname":"gru06s09-in-f110.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	]
+}

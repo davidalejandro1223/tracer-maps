@@ -1,0 +1,12 @@
+body{
+    font-size: 16px;
+    padding: 3em 0;
+}
+
+div ul{
+    padding-top: 1.5em;
+}
+
+div[id^="mapa"]{
+    height: 40em;
+}

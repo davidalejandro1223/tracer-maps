@@ -1,0 +1,35 @@
+{
+	"facebook":[
+		{"tm":3,"ip":"85.214.1.22","webname":"vl500.dcata-b16.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":9.3,"ip":"85.214.0.156","webname":"ae6.432.core-b2.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":1,"ip":"85.214.0.69","webname":"ae2.0.core-b30.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":14.3,"ip":"85.214.0.65","webname":"ae2.0.morla.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":14,"ip":"62.69.146.130","webname":"facebook2.fra.ecix.net","latitud":51.2993,"longitud":9.491,"as":"AS47872 Sofia Connect EAD"},
+		{"tm":14,"ip":"204.15.21.28","webname":"po116.asw02.fra5.tfbnw.net","latitud":37.3762,"longitud":-122.1826,"as":"AS32934 Facebook, Inc"},
+		{"tm":14,"ip":"31.13.27.221","webname":"po242.psw02.fra3.tfbnw.net","latitud":53.3472,"longitud":-6.2439,"as":"AS32934 Facebook, Inc"},
+		{"tm":14,"ip":"157.240.36.51","webname":"","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":14,"ip":"157.240.20.35","webname":"edge-star-mini-shv-02-frt3.facebook.com","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"}
+	],
+	"google":[
+		{"tm":3,"ip":"85.214.1.22","webname":"vl500.dcata-b16.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":9.3,"ip":"85.214.0.156","webname":"ae6.432.core-b2.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":1,"ip":"85.214.0.69","webname":"ae2.0.core-b30.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":12.3,"ip":"193.178.185.100","webname":"google.bcix.de","latitud":51.2993,"longitud":9.491,"as":""},
+		{"tm":12.3,"ip":"108.170.241.172","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":13,"ip":"216.239.41.49","webname":"","latitud":37.8342,"longitud":-122.2897,"as":"AS15169 Google LLC"},
+		{"tm":16,"ip":"74.125.37.130","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":13.6,"ip":"209.85.254.171","webname":"","latitud":37.751,"longitud":-97.822,"as":"AS15169 Google LLC"},
+		{"tm":14,"ip":"72.14.233.30","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":13.6,"ip":"209.85.247.15","webname":"","latitud":37.751,"longitud":-97.822,"as":"AS15169 Google LLC"},
+		{"tm":13.3,"ip":"216.58.213.196","webname":"ham02s15-in-f196.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	],
+	"youtube":[
+		{"tm":3,"ip":"85.214.1.22","webname":"vl500.dcata-b16.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":9.3,"ip":"85.214.0.156","webname":"ae6.432.core-b2.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":1,"ip":"85.214.0.69","webname":"ae2.0.core-b30.as6724.net","latitud":52.5167,"longitud":13.4,"as":"AS6724 Strato AG"},
+		{"tm":12.3,"ip":"193.178.185.100","webname":"google.bcix.de","latitud":51.2993,"longitud":9.491,"as":""},
+		{"tm":12,"ip":"108.170.241.129","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":14,"ip":"108.170.235.133","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":14,"ip":"172.217.20.78","webname":"ams15s33-in-f14.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	]
+}

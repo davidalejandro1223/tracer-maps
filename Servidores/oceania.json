@@ -1,0 +1,26 @@
+{
+	"facebook":[
+		{"tm":50,"ip":"203.50.77.53","webname":"gigabitethernet3-3.exi2.melbourne.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":1.8,"ip":"203.50.80.129","webname":"bundle-ether3-100.win-core10.melbourne.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":12.8,"ip":"203.50.11.122","webname":"bundle-ether12.ken-core10.sydney.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":11,"ip":"203.50.11.173","webname":"bundle-ether1.ken-edge903.sydney.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":12.6,"ip":"203.27.180.34","webname":"edg2336379.lnk.telstra.net","latitud":-32.9163,"longitud":151.6766,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":12,"ip":"157.240.47.67","webname":"po101.psw03.syd2.tfbnw.net","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":11,"ip":"173.252.67.119","webname":"","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":11.8,"ip":"157.240.8.35","webname":"edge-star-mini-shv-01-syd2.facebook.com","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"}
+		],
+	"google":[
+		{"tm":0.2,"ip":"203.50.77.53","webname":"gigabitethernet3-3.exi2.melbourne.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":2,"ip":"203.50.80.129","webname":"bundle-ether3-100.win-core10.melbourne.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":13,"ip":"203.50.11.122","webname":"bundle-ether12.ken-core10.sydney.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":11.8,"ip":"203.50.11.173","webname":"bundle-ether1.ken-edge903.sydney.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":12.4,"ip":"72.14.212.22","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS1221 Telstra Pty Ltd"}
+		],
+	"youtube":[
+		{"tm":0.2,"ip":"203.50.77.53","webname":"gigabitethernet3-3.exi2.melbourne.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":2,"ip":"203.50.80.129","webname":"bundle-ether3-100.win-core10.melbourne.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":13,"ip":"203.50.11.122","webname":"bundle-ether12.ken-core10.sydney.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":11.8,"ip":"203.50.11.173","webname":"bundle-ether1.ken-edge903.sydney.telstra.net","latitud":-33.494,"longitud":143.2104,"as":"AS1221 Telstra Pty Ltd"},
+		{"tm":12.4,"ip":"72.14.212.22","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS1221 Telstra Pty Ltd"}
+	]
+}

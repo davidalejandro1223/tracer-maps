@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <!-- Required meta tags -->
@@ -9,6 +9,10 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="js/lecturajsonservidores.js"></script>
+
     <title>Trace route</title>
 </head>
 
@@ -41,6 +45,7 @@
 
     <section class="container">
         <div class="tab-content" id="content-paises">
+
             <div class="tab-pane fade show active" id="local" role="tabpanel">
                 <ul class="nav nav-pills mb-3" id="servers-local" role="tablist">
                     <li class="nav-item">
@@ -61,16 +66,23 @@
                 </ul>
                 <div class="tab-content" id="pills-tabContentLocal">
                     <div class="tab-pane fade show active" id="facebook-local" role="tabpanel" aria-labelledby="pills-home-tab">
+                        <div id="mapa-fb-local">
 
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="google-local" role="tabpanel" aria-labelledby="pills-profile-tab">
+                        <div id="mapa-google-local">
 
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="youtube-local" role="tabpanel" aria-labelledby="pills-contact-tab">
+                        <div id="mapa-youtube-local">
 
+                        </div>
                     </div>
                 </div>
             </div>
+
             <div class="tab-pane fade" id="europa" role="tabpanel">
                 <ul class="nav nav-pills mb-3" id="servers-europa" role="tablist">
                     <li class="nav-item">
@@ -91,13 +103,19 @@
                 </ul>
                 <div class="tab-content" id="pills-tabContentEuropa">
                     <div class="tab-pane fade show active" id="facebook-europa" role="tabpanel" aria-labelledby="pills-home-tab">
+                        <div id="mapa-europa-facebook">
 
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="google-europa" role="tabpanel" aria-labelledby="pills-profile-tab">
+                        <div id="mapa-europa-google">
 
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="youtube-europa" role="tabpanel" aria-labelledby="pills-contact-tab">
+                        <div id="mapa-europa-youtube">
 
+                        </div>
                     </div>
                 </div>
             </div>
@@ -256,14 +274,16 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
     <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
-        crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
         crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+    <script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc-e_3WOUY_d-DkIX6dPOTvOckSd_Nz5c&callback=initMaps">
+    </script>
 </body>
 
 </html>

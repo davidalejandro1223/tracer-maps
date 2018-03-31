@@ -1,0 +1,35 @@
+{
+	"facebook":[
+		{"tm":0.5,"ip":"50.31.252.1","webname":"50.31.252.1.static.vps.net","latitud":35.685,"longitud":139.7514,"as":"AS32780 Hosting Services, Inc"},
+		{"tm":0.4,"ip":"75.102.60.17","webname":"0.ge-1-0-2.cr1.tko1.scnet.net","latitud":37.751,"longitud":-97.822,"as":"AS23352 Server Central Network"},
+		{"tm":3.8,"ip":"203.192.150.81","webname":"SRV-0001.10026.telstraglobal.net","latitud":35.69,"longitud":139.69,"as":"AS4637 Telstra Global"},
+		{"tm":2,"ip":"202.147.0.108","webname":"ip-202-147-0-108.asianetcom.net","latitud":35.6895,"longitud":139.6917,"as":"AS4637 Telstra Global"},
+		{"tm":66,"ip":"61.14.157.45","webname":"te0-1-2-0.wr1.nrt0.10026.telstraglobal.net","latitud":35.6895,"longitud":139.6917,"as":"AS10026 Pacnet Global Ltd"},
+		{"tm":91.4,"ip":"61.14.157.14","webname":"te0-0-4-0.wr2.nrt0.10026.telstraglobal.net","latitud":35.6895,"longitud":139.6917,"as":"AS10026 Pacnet Global Ltd"},
+		{"tm":90.8,"ip":"61.14.158.51","webname":"te0-3-0-0.wr1.osa0.10026.telstraglobal.net","latitud":35.6895,"longitud":139.6917,"as":"AS10026 Pacnet Global Ltd"},
+		{"tm":90.1,"ip":"61.14.157.57","webname":"te0-1-0-0.wr1.hkg0.10026.telstraglobal.net","latitud":35.6895,"longitud":139.6917,"as":"AS10026 Pacnet Global Ltd"},
+		{"tm":117,"ip":"61.14.157.142","webname":"ge-4-1-0-0.cr4.hkg3.10026.telstraglobal.net","latitud":35.6895,"longitud":139.6917,"as":"AS10026 Pacnet Global Ltd"},
+		{"tm":88.8,"ip":"202.147.16.198","webname":"xe0-2-0.gw1.hkg3.10026.telstraglobal.net","latitud":35.6895,"longitud":139.6917,"as":"AS4637 Telstra Global"},
+		{"tm":89.8,"ip":"202.147.16.223","webname":"ip-202-147-16-223.asianetcom.net","latitud":35.6895,"longitud":139.6917,"as":"AS4637 Telstra Global"},
+		{"tm":89,"ip":"157.240.48.96","webname":"po111.asw04.hkg3.tfbnw.net","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc."},
+		{"tm":89.1,"ip":"157.240.48.209","webname":"po331.psw02.hkg3.tfbnw.net","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc."},
+		{"tm":89,"ip":"173.252.67.7","webname":"","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":89.1,"ip":"31.13.95.36","webname":"edge-star-mini-shv-01-hkg3.facebook.com","latitud":53.3472,"longitud":-6.2439,"as":"AS32934 Facebook, Inc"}
+	],
+	"google":[
+		{"tm":0.5,"ip":"50.31.252.1","webname":"50.31.252.1.static.vps.net","latitud":35.685,"longitud":139.7514,"as":"AS32780 Hosting Services, Inc"},
+		{"tm":0.4,"ip":"75.102.60.17","webname":"0.ge-1-0-2.cr1.tko1.scnet.net","latitud":37.751,"longitud":-97.822,"as":"AS32780 Hosting Services, Inc"},
+		{"tm":1.2,"ip":"203.190.230.31","webname":"15169.tyo.equinix.com","latitud":35.69,"longitud":139.69,"as":""},
+		{"tm":1.1,"ip":"108.170.242.161","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":1.3,"ip":"108.170.236.25","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":1.2,"ip":"172.217.24.142","webname":"nrt20s01-in-f142.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	],
+	"youtube":[
+		{"tm":0.5,"ip":"50.31.252.1","webname":"50.31.252.1.static.vps.net","latitud":35.685,"longitud":139.7514,"as":"AS32780 Hosting Services, Inc"},
+		{"tm":0.4,"ip":"75.102.60.17","webname":"0.ge-1-0-2.cr1.tko1.scnet.net","latitud":37.751,"longitud":-97.822,"as":"AS32780 Hosting Services, Inc"},
+		{"tm":1.2,"ip":"203.190.230.31","webname":"15169.tyo.equinix.com","latitud":35.69,"longitud":139.69,"as":""},
+		{"tm":1.1,"ip":"108.170.242.161","webname":"","latitud":37.4192,"longitud":-122.0574,"as":""},
+		{"tm":1.3,"ip":"72.14.234.229","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":1.2,"ip":"172.217.24.142","webname":"nrt20s01-in-f142.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	]
+}

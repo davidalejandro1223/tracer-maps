@@ -1,0 +1,30 @@
+{
+	"facebook":[
+		{"tm":2,"ip":"197.221.23.193","webname":"","latitud":-26.2023,"longitud":28.0436,"as":"AS37153 HETZNER"},
+		{"tm":0.5,"ip":"41.204.206.37","webname":"","latitud":-26.2023,"longitud":28.0436,"as":"AS37153 HETZNER"},
+		{"tm":0.5,"ip":"41.66.133.1","webname":"41-66-133-1-2.wc-ro-het-mee-1ae-0-4007.africainx.net","latitud":-26.1498,"longitud":27.8273,"as":"AS37179 AFRICAINX"},
+		{"tm":22,"ip":"41.84.13.235","webname":"core.xe-0-0-1-gp-id-pbr-1.za.africainx.net","latitud":-25.9636,"longitud":28.1378,"as":"AS37179 AFRICAINX"},
+		{"tm":27.6,"ip":"196.60.9.16","webname":"96-60-9-16.ixp.joburg","latitud":-26.2023,"longitud":28.0436,"as":""},
+		{"tm":22,"ip":"157.240.41.255","webname":"po102.psw04.jnb1.tfbnw.net","latitud":-26.2023,"longitud":28.0436,"as":"AS32934 Facebook, Inc"},
+		{"tm":22,"ip":"173.252.67.161","webname":"","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":22,"ip":"185.60.219.35","webname":"","latitud":53.3472,"longitud":-6.2439,"as":"AS32934 Facebook, Inc"}
+	],
+	"google":[
+		{"tm":4.5,"ip":"197.221.23.193","webname":"","latitud":-26.2023,"longitud":28.0436,"as":"AS37153 HETZNER"},
+		{"tm":0,"ip":"41.204.206.37","webname":"","latitud":-26.2023,"longitud":28.0436,"as":"AS37153 HETZNER"},
+		{"tm":0,"ip":"41.66.133.1","webname":"41-66-133-1-2.wc-ro-het-mee-1ae-0-4007.africainx.net","latitud":-26.1498,"longitud":27.8273,"as":"AS37179 AFRICAINX"},
+		{"tm":22,"ip":"41.84.13.201","webname":"core.xe-0-0-0-gp-id-pbr-1.za.africainx.net","latitud":-25.9636,"longitud":28.1378,"as":"AS37179 AFRICAINX"},
+		{"tm":22,"ip":"196.60.8.166","webname":"google.ixp.joburg","latitud":-26.2309,"longitud":28.0583,"as":""},
+		{"tm":22,"ip":"72.14.237.239","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":21.3,"ip":"216.58.223.14","webname":"jnb01s07-in-f14.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	],
+	"youtube":[
+		{"tm":6,"ip":"197.221.23.193","webname":"","latitud":-26.2023,"longitud":28.0436,"as":"AS37153 HETZNER"},
+		{"tm":1,"ip":"41.204.206.37","webname":"","latitud":-26.2023,"longitud":28.0436,"as":"AS37153 HETZNER"},
+		{"tm":0,"ip":"41.66.133.1","webname":"41-66-133-1-2.wc-ro-het-mee-1ae-0-4007.africainx.net","latitud":-26.1498,"longitud":27.8273,"as":"AS37179 AFRICAINX"},
+		{"tm":22,"ip":"41.84.13.201","webname":"core.xe-0-0-0-gp-id-pbr-1.za.africainx.net","latitud":-25.9636,"longitud":28.1378,"as":"AS37179 AFRICAINX"},
+		{"tm":22,"ip":"196.60.8.166","webname":"google.ixp.joburg","latitud":-26.2309,"longitud":28.0583,"as":""},
+		{"tm":22,"ip":"72.14.237.239","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":22,"ip":"216.58.223.14","webname":"jnb01s07-in-f14.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	]
+}

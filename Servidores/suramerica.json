@@ -1,0 +1,29 @@
+{
+	"facebook":[
+		{"tm":1,"ip":"168.205.94.1","webname":"host1.168.205.94.baehost.com.ar","latitud":-34.6033,"longitud":-58.3816,"as":"AS61493 InterBS S.R.L"},
+		{"tm":1.3,"ip":"200.61.128.226","webname":"226.128.61.200.host.ifxnw.com.ar","latitud":-34.6033,"longitud":-58.3816,"as":"AS18747 IFX Corporation"},
+		{"tm":4,"ip":"200.0.17.139","webname":"","latitud":-34.6033,"longitud":-58.3817,"as":""},
+		{"tm":2.6,"ip":"74.119.76.79","webname":"po104.psw02.eze1.tfbnw.net","latitud":37.3762,"longitud":-122.1826,"as":"AS32934 Facebook, Inc"},
+		{"tm":3.6,"ip":"173.252.67.65","webname":"","latitud":37.459,"longitud":-122.1781,"as":"AS32934 Facebook, Inc"},
+		{"tm":3.3,"ip":"31.13.94.35","webname":"edge-star-mini-shv-01-eze1.facebook.com","latitud":53.3472,"longitud":-6.2439,"as":"AS32934 Facebook, Inc"}
+	],
+	"google":[
+		{"tm":1,"ip":"168.205.94.1","webname":"host1.168.205.94.baehost.com.ar","latitud":-34.6033,"longitud":-58.3816,"as":"AS61493 InterBS S.R.L"},
+		{"tm":1.3,"ip":"200.61.128.226","webname":"226.128.61.200.host.ifxnw.com.ar","latitud":-34.6033,"longitud":-58.3816,"as":"AS18747 IFX Corporation"},
+		{"tm":1.3,"ip":"200.61.128.254","webname":"ge-0-0-0.ARBUE.m20x1","latitud":-34.6033,"longitud":-58.3816,"as":"AS18747 IFX Corporation"},
+		{"tm":2.3,"ip":"72.14.213.28","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":1.6,"ip":"72.14.235.154","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":1.6,"ip":"108.170.236.159","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":1.6,"ip":"172.217.30.164","webname":"eze03s36-in-f4.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	],
+	"youtube":[
+		{"tm":1,"ip":"168.205.94.1","webname":"host1.168.205.94.baehost.com.ar","latitud":-34.6033,"longitud":-58.3816,"as":"AS61493 InterBS S.R.L"},
+		{"tm":1.3,"ip":"200.61.128.226","webname":"226.128.61.200.host.ifxnw.com.ar","latitud":-34.6033,"longitud":-58.3816,"as":"AS18747 IFX Corporation"},
+		{"tm":1.3,"ip":"200.61.128.254","webname":"ge-0-0-0.ARBUE.m20x1","latitud":-34.6033,"longitud":-58.3816,"as":"AS18747 IFX Corporation"},
+		{"tm":2.3,"ip":"72.14.213.28","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":2,"ip":"108.170.248.241","webname":"","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"},
+		{"tm":2,"ip":"216.239.58.213","webname":"","latitud":35.4676,"longitud":-97.5164,"as":"AS15169 Google LLC"},
+		{"tm":2,"ip":"172.217.28.174","webname":"eze03s29-in-f14.1e100.net","latitud":37.4192,"longitud":-122.0574,"as":"AS15169 Google LLC"}
+	]
+}
+
